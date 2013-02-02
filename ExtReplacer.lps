@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="12">
+      <Unit0>
+        <Filename Value="ExtReplacer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ExtReplacer"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ufrmMain"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="148"/>
+        <CursorPos X="14" Y="158"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="resources\ResStrs.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ResStrs"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="109"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="forms\ufrmAbout.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmAbout"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ufrmAbout"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="3" Y="9"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\guidllwizard1\units_backup_v9\sdvtools\sdvmsgtypes.pas"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\guidllwizard1\units_backup_v9\sdvlib\sdvstrings.pas"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\guidllwizard1\units_backup_v9\sdvlib\sdvossys.pas"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\..\packages\sdvlib\laz60\sources\sdvossearchfiles.pas"/>
+        <UnitName Value="sdvossearchfiles"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="7" Y="2"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\..\packages\sdvdialogs\laz60\sources\sdvmsgdlgs.pas"/>
+        <UnitName Value="sdvmsgdlgs"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="13"/>
+        <CursorPos X="8" Y="22"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\..\packages\sdvdialogs\laz60\sources\sdvmsgdlgsmemos.pas"/>
+        <UnitName Value="sdvmsgdlgsmemos"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="13"/>
+        <CursorPos X="10" Y="15"/>
+        <UsageCount Value="10"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\..\packages\sdvlib\laz60\sources\sdvstrings.pas"/>
+        <UnitName Value="sdvstrings"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="243"/>
+        <CursorPos X="12" Y="252"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\lazarus\fpc\2.6.0\source\rtl\win32\system.pp"/>
+        <UnitName Value="System"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="29"/>
+        <CursorPos X="16" Y="30"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit11>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="19" HistoryIndex="18">
+      <Position1>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="16" Column="10" TopLine="1"/>
+      </Position1>
+      <Position2>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="12" Column="5" TopLine="1"/>
+      </Position2>
+      <Position3>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="145" Column="37" TopLine="136"/>
+      </Position3>
+      <Position4>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="149" Column="35" TopLine="136"/>
+      </Position4>
+      <Position5>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="81" Column="8" TopLine="64"/>
+      </Position5>
+      <Position6>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="14" Column="1" TopLine="7"/>
+      </Position6>
+      <Position7>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="16" Column="34" TopLine="7"/>
+      </Position7>
+      <Position8>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="99" Column="14" TopLine="90"/>
+      </Position8>
+      <Position9>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position9>
+      <Position10>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="87" Column="39" TopLine="84"/>
+      </Position10>
+      <Position11>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position11>
+      <Position12>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="98" Column="65" TopLine="83"/>
+      </Position12>
+      <Position13>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="151" Column="63" TopLine="136"/>
+      </Position13>
+      <Position14>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="186" Column="44" TopLine="172"/>
+      </Position14>
+      <Position15>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="176" Column="20" TopLine="172"/>
+      </Position15>
+      <Position16>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position16>
+      <Position17>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="155" Column="42" TopLine="142"/>
+      </Position17>
+      <Position18>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="153" Column="28" TopLine="142"/>
+      </Position18>
+      <Position19>
+        <Filename Value="forms\ufrmMain.pas"/>
+        <Caret Line="180" Column="52" TopLine="165"/>
+      </Position19>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
